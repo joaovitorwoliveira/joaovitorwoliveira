@@ -1,15 +1,17 @@
 # Hello, I'm João 👋
 
-Aspiring developer from Brazil passionate about technology and innovation.
+Swoftware developer from Brazil.
 
 ## Technologies Used in My Projects
 
 - JavaScript / TypeScript
 - Node.js
+- Next.js
 - React
 - Docker
+- Jest
 - Prisma / Sequelize
-- Postgres / SQLite / Redis
+- Postgres / MySQL / SQLite / Redis
 - Zod
 
 ## Links
