@@ -1,6 +1,6 @@
 # Hello, I'm João 👋
 
-Swoftware developer from Brazil.
+Software developer from Brazil.
 
 ## Technologies Used in My Projects
 
