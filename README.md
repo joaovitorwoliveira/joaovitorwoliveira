@@ -7,6 +7,7 @@ Software developer from Brazil.
 - JavaScript / TypeScript
 - Node.js
 - Next.js
+- Nest.js
 - React
 - Docker
 - Jest
