@@ -11,7 +11,7 @@ Software developer from Brazil.
 - React
 - Docker
 - Jest
-- Prisma / Sequelize
+- Prisma / TypeORM /Sequelize
 - Postgres / MySQL / SQLite 
 - Zod
 
