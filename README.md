@@ -18,6 +18,7 @@ Software developer from Brazil.
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <br/>
+
 ## Contact
 
 [![Linkedin](https://img.shields.io/badge/-joaovitorwoliveira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joaovitorwoliveira/)](https://www.linkedin.com/in/joaovitorwoliveira/)
