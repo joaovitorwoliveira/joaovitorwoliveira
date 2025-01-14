@@ -3,7 +3,7 @@
 Software developer from Brazil.
 
 - 🎓 Studying Systems Analysis and Development at Unisenac RS.
-- 💼 Working as a front-end developer at [Chatlabs](https://www.chatlabs.com.br/).
+- 💼 Working as a front-end developer at [Brave](https://www.brave.ag/).
   
 ## Stack
 
