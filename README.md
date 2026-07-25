@@ -2,7 +2,7 @@
 
 Software developer from Brazil.
 
- 🎓 Systems Analysis and Development graduate.
+- 🎓 Systems Analysis and Development graduate.
 - 💼 Working as a full-stack developer at Brave.ag.
 - ⚙️ Building modern web applications with TypeScript, React and Node.js.
 - 🚀 Interested in software architecture, developer experience and product development.
