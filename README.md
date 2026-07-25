@@ -2,8 +2,10 @@
 
 Software developer from Brazil.
 
-- 🎓 Studying Systems Analysis and Development at Unisenac RS.
-- 💼 Working as a full-stack developer at [Brave](https://www.brave.ag/).
+ 🎓 Systems Analysis and Development graduate.
+- 💼 Working as a full-stack developer at Brave.ag.
+- ⚙️ Building modern web applications with TypeScript, React and Node.js.
+- 🚀 Interested in software architecture, developer experience and product development.
   
 ## Stack
 
